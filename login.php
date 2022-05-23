@@ -4,9 +4,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {font-family: Arial, Helvetica, sans-serif;}
-
-
-
 /* Extra styles for the cancel button */
 .cancelbtn {
   width: auto;
@@ -20,7 +17,6 @@ body {font-family: Arial, Helvetica, sans-serif;}
   margin: 24px 0 12px 0;
   position: relative;
 }
-
 
 .container {
   padding: 16px;
