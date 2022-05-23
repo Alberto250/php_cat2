@@ -12,9 +12,6 @@ require_once 'connection.php';
  		{
  			$row=mysqli_fetch_array($select)
 ?>
-
-
-                
 <form action="up.php?ref=<?=$_GET['ref']?>" method="POST">
 <div class="container register">
                 <div class="row">
